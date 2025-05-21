@@ -5,9 +5,13 @@ To write a program to check whether the attendance is PRESENT using simple if st
 
 ## Algorithm
 1.Start the program. 
+
 2.Read the attendance percentage from the user. 
+
 3.Check if the percentage is greater than or equal to 75.
+
 4.If true, display "Attendance is PRESENT". 
+
 5.End the program.
 
 ## Program:
